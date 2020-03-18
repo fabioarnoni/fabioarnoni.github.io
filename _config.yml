@@ -21,6 +21,7 @@ description: A site created to share cool things :)
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Books:    "books"
   Resources:
     - Linkedin: "https://www.linkedin.com/in/fabioarnoni"
     - Twitter: "https://twitter.com/fabioarnoni"
