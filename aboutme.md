@@ -4,7 +4,7 @@ title: About me
 # subtitle: Why you'd want to go on a date with me
 ---
 
-![family](../img/about/family.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;:height="50%" width="50%""}
+![family](../img/about/family.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;:height="25%" width="25%""}
 
 
 Hello! My name is Fabio Arnoni and I have created this blog to tell a little bit about myself. I am from Sao Paulo - Brazil and I am married with no kids. I graduated in Information Security from [`FATEC - 2011`](https://www.fatecsaocaetano.edu.br/) , I have an MBA in IT Management from [`FIAP - 2015`](https://www.fiap.com.br/), and now I am doing an MBA in Business management at [`USP/Esalq Univertity -2020.`](https://mbauspesalq.com/)  
