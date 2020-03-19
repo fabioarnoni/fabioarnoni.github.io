@@ -11,12 +11,12 @@ Hello! My name is Fabio Arnoni and I have created this blog to tell a little bit
 
 I have been working in the IT Industry for the past 13 years, having the opportunity to contribute in many areas like infrastructure, Information Security and DevOps. With strong background in operating systems, virtualization, containers, automation, CI/CD, development, cloud and security, I design and implement solutions to address business needs.
 
-![friends](../img/about/friends.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;:height="39%" width="39%""}
+![friends](../img/about/friends.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;:height="35%" width="35%""}
 
 As a Technical Leader, I have been studying and applying knowledge to improve team performance, engagement and well-being. I like to study and share knowledge about governance, personal development, neuro-linguistic programming, design thinking, learning techniques, organization, lifestyle, etc.
 
 
-![books](../img/about/books.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;:height="39%" width="39%""}
+![books](../img/about/books.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;:height="35%" width="35%""}
 
 
 I have some personal projects in the social area. One of them is called “book exchange”.  I have exchanged books with more than 30 coworkers to encourage reading, get people together and share knowledge. I am also an apartment manager, with projects to improve cost management, security and the well-being of the unit owners.
