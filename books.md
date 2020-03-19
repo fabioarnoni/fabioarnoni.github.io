@@ -3,10 +3,8 @@ layout: page
 title: Books
 # subtitle: Why you'd want to go on a date with me
 ---
-
-## **Livros**
     
-Books I have been reading in 2020
+Books I have been reading in 2020.
 
 [2020](books), [2019](books_2019)
 

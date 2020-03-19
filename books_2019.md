@@ -4,8 +4,6 @@ title: Books
 # subtitle: Why you'd want to go on a date with me
 ---
 
-## **Livros**
-    
 Books I have read in 2019.
 
 [2020](books), [2019](books_2019)
