@@ -11,7 +11,7 @@ title: Books
 | Titulo | Autor | Pág | Status | Avaliação |
 |--------|-------|-----|--------|-----------|
 |Docker Deep Dive | Nigel Poulton  | 432 |   <i class="fa fa-star fa-check">   |  <i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i> |
-|Jeferson Fernando Noronha Vitalino, Marcus André Nunes Castro | 131 |   <i class="fa fa-star fa-check">   |  <i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i> |
+|Descomplicando o Docker | Jeferson Fernando Noronha Vitalino, Marcus André Nunes Castro | 131 |   <i class="fa fa-star fa-check">   |  <i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i> |
 |Scrum Narrative and PSM Exam Guide | Mohammed Musthafa Soukath Ali, Samantha Mason | 166 |   <i class="fa fa-star fa-check">   |  <i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i> |
 |Descubra seus pontos fortes 2.0 | Don Clifton, Tom Rath | 208 |   <i class="fa fa-star fa-check">   |  <i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i> |
 |Fluent business english | Jose Roberto A. Igreja | 248 |   <i class="fa fa-star fa-check">   |  <i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i> |
